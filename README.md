@@ -5,7 +5,7 @@
 
 - 🌱 **Business Analyst | Business Intelligence | Data Analysis | Data Visualization | Data Warehouse | Data Transformation | Data Modelling | SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SAgrawal76?tab=repositories](https://github.com/SAgrawal76?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/saurabhagrawalpsd?tab=repositories)
 
 - 💬 Ask me about **Power BI, Python, SQL, Data Analysis**
 
@@ -20,7 +20,7 @@ Saurabh holds a **Master of Science (M.Sc)** degree in **Agricultural Economics 
 In addition to his professional experience, Saurabh has undertaken several projects, including a **Business Intelligence Project** , **SQl Project** and a **Data Analysis Project**.
 
 Saurabh is a problem solver, deadline-driven, and an effective communicator with strong leadership skills. He is fluent in English, Hindi, and Marathi. He enjoys art and equity and derivative analysis in his free time. He can be contacted at agrawal3197@gmail.com. 
-More about his work can be found on his [LinkedIn](www.linkedin.com/in/saurabh-agrawal-9ab186143) and [GitHub](https://github.com/SAgrawal76) profiles.
+More about his work can be found on his [LinkedIn](www.linkedin.com/in/saurabh-agrawal-9ab186143) and [GitHub](https://github.com/saurabhagrawalpsd) profiles.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
